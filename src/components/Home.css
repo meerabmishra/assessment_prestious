@@ -1,0 +1,11 @@
+.home-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .home-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+  }
